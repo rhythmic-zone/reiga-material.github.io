@@ -3,8 +3,8 @@
 .btn.outline.color,
 a.arrow-link:hover,
 a.arrow-link:hover:before,
-.service-item:hover > i,
-.service-item:hover > a.arrow-link:before,
+.service-item:hover>i,
+.service-item:hover>a.arrow-link:before,
 .c-details a:hover,
 .c-details a:hover i {
 	color: #a2c43b;
@@ -19,7 +19,7 @@ a.btn.outline:hover,
 button.outline:hover,
 input[type="submit"].outline:hover,
 .btn.color,
-.icon-nav a:hover > i {
+.icon-nav a:hover>i {
 	background: #a2c43b;
 }
 
@@ -33,15 +33,15 @@ a.btn.outline:hover,
 button.outline:hover,
 input[type="submit"].outline:hover {
 	border: 2px solid #a2c43b;
-	border: 2px solid rgba(162,196,59,1);
+	border: 2px solid rgba(162, 196, 59, 1);
 }
 
 /* RGBA background color */
 .back-top {
 	background: #a2c43b;
-	background: rgba(162,196,59,0.9);
+	background: rgba(162, 196, 59, 0.9);
 }
 
 .back-top:hover {
-	background: rgba(162,196,59,1);
+	background: rgba(162, 196, 59, 1);
 }
