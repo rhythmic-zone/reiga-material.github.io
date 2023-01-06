@@ -1652,23 +1652,23 @@ a.arrow-link:hover, a.arrow-link:hover:before {
 }
 
 .background-one {
-	background-image: url('static/picture/bg/bg-1.jpg')
+	background-image: url('../picture/bg/bg-1.jpg')
 }
 
 .background-two {
-	background-image: url('static/picture/bg/bg-2.jpg')
+	background-image: url('../picture/bg/bg-2.jpg')
 }
 
 .background-three {
-	background-image: url('static/picture/bg/bg-3.jpg')
+	background-image: url('../picture/bg/bg-3.jpg')
 }
 
 .background-four {
-	background-image: url('static/picture/bg/bg-4.jpg')
+	background-image: url('../picture/bg/bg-4.jpg')
 }
 
 .background-five {
-	background-image: url('static/picture/bg/bg-5.jpg')
+	background-image: url('../picture/bg/bg-5.jpg')
 }
 
 .loader {

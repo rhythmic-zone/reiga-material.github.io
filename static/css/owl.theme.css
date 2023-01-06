@@ -67,5 +67,5 @@
 
 .owl-item.loading {
   min-height: 150px;
-  background: url(static/picture/loader.gif) no-repeat center center
+  background: url('../picture/loader.gif') no-repeat center center
 }
